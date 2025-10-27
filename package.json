@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "my-phone-server",
+=======
+  "name": "my-first-server",
+>>>>>>> a1154058765f66fb037701f1cb33f2e1a154f336
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
